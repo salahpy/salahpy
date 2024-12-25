@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm Nacef Salah Eddine, a student at the Higher National School of Computer Science (ESI) in Algeria. I'm a full-stack web developer and a CTF player. Currently, I'm learning AI to integrate it into my future projects.
+I'm Nacef Salah Eddine, a full-stack web developer and a cybersecurity enthusiast.
 
 ## 🌐 Socials:
 
