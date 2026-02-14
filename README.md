@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm Nacef Salah Eddine, a Software & AI Engineer.
+I'm Nacef Salah, a Software & AI Engineer.
 
 ## 🌐 Socials:
 
