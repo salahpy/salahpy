@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm Nacef Salah Eddine, a full-stack web developer and a cybersecurity enthusiast.
+I'm Nacef Salah Eddine, a Software & AI Engineer.
 
 ## 🌐 Socials:
 
